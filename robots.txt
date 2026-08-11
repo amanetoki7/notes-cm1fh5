@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amanetoki7.github.io/notes-cm1fh5/sitemap.xml
